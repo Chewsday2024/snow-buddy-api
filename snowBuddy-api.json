@@ -735,17 +735,14 @@
       "intermediate": "40",
       "advanced": "30"
     },
-    "tag":{
-      "isBeginnerFriendly": false,
-      "isSkiInOut":false,
-      "isTouristHotel":true,
-      "isStuntPark":true,
-      "isWildSnowForest":false,
-      "hasNightSki":true,
-      "hasNaturalOnsen":true,
-      "hasChildCareServices":true,
-      "hasChildPark":true
-    },
+    "tag": [
+      "觀光飯店",
+      "特技公園",
+      "夜間滑雪",
+      "天然溫泉",
+      "托兒服務",
+      "親子樂園"
+    ],
     "selectCoach":[1,3,8]
     },{
     "id": 2,
@@ -767,17 +764,15 @@
     "intermediate": "40",
     "advanced": "40"
     },
-    "tag":{
-    "isBeginnerFriendly": false,
-    "isSkiInOut":true,
-    "isTouristHotel":true,
-    "isStuntPark":true,
-    "isWildSnowForest":true,
-    "hasNightSki":true,
-    "hasNaturalOnsen":true,
-    "hasChildCareServices":false,
-    "hasChildPark":true
-    },
+    "tag": [
+      "SkiInOut",
+      "觀光飯店",
+      "特技公園",
+      "野雪樹林",
+      "夜間滑雪",
+      "天然溫泉",
+      "親子樂園"
+    ],
     "selectCoach":[2,4,6]
     },{
     "id": 3,
@@ -799,17 +794,9 @@
     "intermediate": "50",
     "advanced": "20"
     },
-    "tag":{
-    "isBeginnerFriendly": false,
-    "isSkiInOut": false,
-    "isTouristHotel": false,
-    "isStuntPark": false,
-    "isWildSnowForest": true,
-    "hasNightSki": false,
-    "hasNaturalOnsen": false,
-    "hasChildCareServices": false,
-    "hasChildPark": false
-    },
+    "tag": [
+      "野雪樹林"
+    ],
     "selectCoach":[1,7,9]
     },{
     "id": 4,
@@ -831,17 +818,16 @@
     "intermediate": "40",
     "advanced": "30"
     },
-    "tag":{
-    "isBeginnerFriendly": true ,
-    "isSkiInOut": true,
-    "isTouristHotel": true,
-    "isStuntPark": true,
-    "isWildSnowForest": true,
-    "hasNightSki": true,
-    "hasNaturalOnsen": true,
-    "hasChildCareServices": false,
-    "hasChildPark": true
-    },
+    "tag": [
+      "初學者友善",
+      "SkiInOut",
+      "觀光飯店",
+      "特技公園",
+      "野雪樹林",
+      "夜間滑雪",
+      "天然溫泉",
+      "親子樂園"
+    ],
     "selectCoach":[2,8,5]
     },{
     "id": 5,
@@ -863,17 +849,15 @@
     "intermediate": "29",
     "advanced": "38"
     },
-    "tag":{
-    "isBeginnerFriendly": true,
-    "isSkiInOut": true,
-    "isTouristHotel": true,
-    "isStuntPark": true,
-    "isWildSnowForest": false,
-    "hasNightSki": true,
-    "hasNaturalOnsen": true,
-    "hasChildCareServices": false,
-    "hasChildPark": true
-    },
+    "tag": [
+      "初學者友善",
+      "SkiInOut",
+      "觀光飯店",
+      "特技公園",
+      "夜間滑雪",
+      "天然溫泉",
+      "親子樂園"
+    ],
     "selectCoach":[8,3,4]
     },{
     "id": 6,
@@ -895,17 +879,13 @@
     "intermediate": "40",
     "advanced": "20"
     },
-    "tag":{
-    "isBeginnerFriendly": true,
-    "isSkiInOut": false,
-    "isTouristHotel": true,
-    "isStuntPark": false,
-    "isWildSnowForest": false,
-    "hasNightSki": true,
-    "hasNaturalOnsen": true,
-    "hasChildCareServices": false,
-    "hasChildPark": true
-    },
+    "tag": [
+      "初學者友善",
+      "觀光飯店",
+      "夜間滑雪",
+      "天然溫泉",
+      "親子樂園"
+    ],
     "selectCoach":[6,9,5]
     },{
     "id": 7,
@@ -927,17 +907,16 @@
     "intermediate": "40",
     "advanced": "40"
     },
-    "tag":{
-    "isBeginnerFriendly": true,
-    "isSkiInOut": true,
-    "isTouristHotel": true,
-    "isStuntPark": true,
-    "isWildSnowForest": true,
-    "hasNightSki": true,
-    "hasNaturalOnsen": true,
-    "hasChildCareServices": true,
-    "hasChildPark": false
-    },
+    "tag": [
+      "初學者友善",
+      "SkiInOut",
+      "觀光飯店",
+      "特技公園",
+      "野雪樹林",
+      "夜間滑雪",
+      "天然溫泉",
+      "托兒服務"
+    ],
     "selectCoach":[2,9,7]
     },{
     "id": 8,
@@ -959,17 +938,13 @@
     "intermediate": "35",
     "advanced": "10"
     },
-    "tag":{
-    "isBeginnerFriendly": true,
-    "isSkiInOut": true,
-    "isTouristHotel": true,
-    "isStuntPark": true,
-    "isWildSnowForest": false,
-    "hasNightSki": false,
-    "hasNaturalOnsen": false,
-    "hasChildCareServices": false,
-    "hasChildPark": true
-    },
+    "tag": [
+      "初學者友善",
+      "SkiInOut",
+      "觀光飯店",
+      "特技公園",
+      "親子樂園"
+    ],
     "selectCoach":[2,3,7]
     },{
     "id": 9,
@@ -991,17 +966,14 @@
     "intermediate": "40",
     "advanced": "25"
     },
-    "tag":{
-    "isBeginnerFriendly": true,
-    "isSkiInOut": false,
-    "isTouristHotel": true,
-    "isStuntPark": false,
-    "isWildSnowForest": false,
-    "hasNightSki": true,
-    "hasNaturalOnsen": true,
-    "hasChildCareServices": true,
-    "hasChildPark": true
-    },
+    "tag": [
+      "初學者友善",
+      "觀光飯店",
+      "夜間滑雪",
+      "天然溫泉",
+      "托兒服務",
+      "親子樂園"
+    ],
     "selectCoach":[8,1,5]
     },{
     "id": 10,
@@ -1023,17 +995,12 @@
     "intermediate": "35",
     "advanced": "35"
     },
-    "tag":{
-    "isBeginnerFriendly": false,
-    "isSkiInOut": true,
-    "isTouristHotel": false,
-    "isStuntPark": false,
-    "isWildSnowForest": true,
-    "hasNightSki": true,
-    "hasNaturalOnsen": false,
-    "hasChildCareServices": true,
-    "hasChildPark": false
-    },
+    "tag":[
+      "SkiInOut",
+      "野雪樹林",
+      "夜間滑雪",
+      "托兒服務"
+    ],
     "selectCoach":[7,6,2]
     },{
     "id": 11,
@@ -1055,17 +1022,14 @@
     "intermediate": "40",
     "advanced": "35"
     },
-    "tag":{
-    "isBeginnerFriendly": true,
-    "isSkiInOut": false,
-    "isTouristHotel": true,
-    "isStuntPark": true,
-    "isWildSnowForest": true,
-    "hasNightSki": false,
-    "hasNaturalOnsen": true,
-    "hasChildCareServices": false,
-    "hasChildPark": true
-    },
+    "tag": [
+      "初學者友善",
+      "觀光飯店",
+      "特技公園",
+      "野雪樹林",
+      "天然溫泉",
+      "親子樂園"
+    ],
     "selectCoach":[3,9,4]
     },{
     "id": 12,
@@ -1087,17 +1051,15 @@
     "intermediate": "40",
     "advanced": "20"
     },
-    "tag":{
-    "isBeginnerFriendly": true,
-    "isSkiInOut": true,
-    "isTouristHotel": true,
-    "isStuntPark": false,
-    "isWildSnowForest": false,
-    "hasNightSki": true,
-    "hasNaturalOnsen": true,
-    "hasChildCareServices": true,
-    "hasChildPark": true
-    },
+    "tag": [
+      "初學者友善",
+      "SkiInOut",
+      "觀光飯店",
+      "夜間滑雪",
+      "天然溫泉",
+      "托兒服務",
+      "親子樂園"
+    ],
     "selectCoach":[6,3,4]
     },{
     "id": 13,
@@ -1119,17 +1081,14 @@
     "intermediate": "40",
     "advanced": "20"
     },
-    "tag":{
-    "isBeginnerFriendly": true,
-    "isSkiInOut": false,
-    "isTouristHotel": true,
-    "isStuntPark": true,
-    "isWildSnowForest": false,
-    "hasNightSki": false,
-    "hasNaturalOnsen": true,
-    "hasChildCareServices": true,
-    "hasChildPark": true
-    },
+    "tag": [
+      "初學者友善",
+      "觀光飯店",
+      "特技公園",
+      "天然溫泉",
+      "托兒服務",
+      "親子樂園"
+    ],
     "selectCoach":[4,7,8]
     },{
     "id": 14,
@@ -1151,17 +1110,17 @@
     "intermediate": "40",
     "advanced": "40"
     },
-    "tag":{
-    "isBeginnerFriendly": true,
-    "isSkiInOut": true,
-    "isTouristHotel": true,
-    "isStuntPark": true,
-    "isWildSnowForest": true,
-    "hasNightSki": true,
-    "hasNaturalOnsen": true,
-    "hasChildCareServices": true,
-    "hasChildPark": true
-    },
+    "tag": [
+      "初學者友善",
+      "SkiInOut",
+      "觀光飯店",
+      "特技公園",
+      "野雪樹林",
+      "夜間滑雪",
+      "天然溫泉",
+      "托兒服務",
+      "親子樂園"
+    ],
     "selectCoach":[4,2,5]
     },{
     "id": 15,
@@ -1183,17 +1142,11 @@
     "intermediate": "44",
     "advanced": "19"
     },
-    "tag":{
-    "isBeginnerFriendly": true,
-    "isSkiInOut": false,
-    "isTouristHotel": false,
-    "isStuntPark": false,
-    "isWildSnowForest": true,
-    "hasNightSki": false,
-    "hasNaturalOnsen": true,
-    "hasChildCareServices": false,
-    "hasChildPark": false
-    },
+    "tag": [
+      "初學者友善",
+      "野雪樹林",
+      "天然溫泉"
+    ],
     "selectCoach":[3,7,8]
     },{
     "id": 16,
@@ -1215,17 +1168,14 @@
     "intermediate": "40",
     "advanced": "16"
     },
-    "tag":{
-    "isBeginnerFriendly": true,
-    "isSkiInOut": false,
-    "isTouristHotel": true,
-    "isStuntPark": false,
-    "isWildSnowForest": true,
-    "hasNightSki": true,
-    "hasNaturalOnsen": true,
-    "hasChildCareServices": false,
-    "hasChildPark": true
-    },
+    "tag": [
+      "初學者友善",
+      "觀光飯店",
+      "野雪樹林",
+      "夜間滑雪",
+      "天然溫泉",
+      "親子樂園"
+    ],
     "selectCoach":[7,4,8]
     },{
     "id": 17,
@@ -1247,17 +1197,16 @@
     "intermediate": "30",
     "advanced": "30"
     },
-    "tag":{
-    "isBeginnerFriendly": true,
-    "isSkiInOut": false,
-    "isTouristHotel": true,
-    "isStuntPark": true,
-    "isWildSnowForest": true,
-    "hasNightSki": true,
-    "hasNaturalOnsen": true,
-    "hasChildCareServices": true,
-    "hasChildPark": true
-    },
+    "tag": [
+      "初學者友善",
+      "觀光飯店",
+      "特技公園",
+      "野雪樹林",
+      "夜間滑雪",
+      "天然溫泉",
+      "托兒服務",
+      "親子樂園"
+    ],
     "selectCoach":[3,8,7]
     },{
     "id": 18,
@@ -1279,17 +1228,12 @@
     "intermediate": "30",
     "advanced": "20"
     },
-    "tag":{
-    "isBeginnerFriendly": true,
-    "isSkiInOut": false,
-    "isTouristHotel": true,
-    "isStuntPark": false,
-    "isWildSnowForest": false,
-    "hasNightSki": false,
-    "hasNaturalOnsen": true,
-    "hasChildCareServices": false,
-    "hasChildPark": true
-    },
+    "tag": [
+      "初學者友善",
+      "觀光飯店",
+      "天然溫泉",
+      "親子樂園"
+    ],
     "selectCoach":[5,2,9]
     },{
     "id": 19,
@@ -1311,17 +1255,10 @@
     "intermediate": "40",
     "advanced": "30"
     },
-    "tag":{
-    "isBeginnerFriendly": true,
-    "isSkiInOut": false,
-    "isTouristHotel": false,
-    "isStuntPark": false,
-    "isWildSnowForest": false,
-    "hasNightSki": false,
-    "hasNaturalOnsen": false,
-    "hasChildCareServices": false,
-    "hasChildPark": true
-    },
+    "tag": [
+      "初學者友善",
+      "親子樂園"
+    ],
     "selectCoach":[2,3,6]
     },{
     "id": 20,
@@ -1343,17 +1280,13 @@
     "intermediate": "30",
     "advanced": "20"
     },
-    "tag":{
-    "isBeginnerFriendly": true,
-    "isSkiInOut": false,
-    "isTouristHotel": true,
-    "isStuntPark": false,
-    "isWildSnowForest": false,
-    "hasNightSki": false,
-    "hasNaturalOnsen": true,
-    "hasChildCareServices": true,
-    "hasChildPark": true
-    },
+    "tag": [
+      "初學者友善",
+      "觀光飯店",
+      "天然溫泉",
+      "托兒服務",
+      "親子樂園"
+    ],
     "selectCoach":[8,3,9]
     }
   ]
